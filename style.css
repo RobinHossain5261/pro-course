@@ -1,0 +1,10 @@
+/* font awasome */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;500;600&family=Satisfy&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.icon-size {
+    font-size: 30px;
+}
